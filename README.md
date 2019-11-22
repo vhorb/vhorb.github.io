@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/vhorb/vhorb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site has adaptive design and can be viewed as on Desktop and as Mobile screen.
+I aware about environment and if needed please get one-page PDF version. [GET PDF](.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Summary of Qualifications
+I am a 5+ years experienced Software Quality Engineer, including 3 years as Automation Test Engineer.
+Working on various projects and have experience in Desktop and Web Testing, Business oriented projects, working as team member and independent engineer. 
 
-### Markdown
+Linkedin Account: [Viacheslav Horbovskykh]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
+Programming Languages/Technologies
+- Ruby
+- JavaScript
 
-```markdown
-Syntax highlighted code block
+DBMS 
+- SQL Server SQL/TSQL 
+- MS SQL Server 2005/2012 
+- PostgreSQL/MySQL/MongoDB
 
-# Header 1
-## Header 2
-### Header 3
+Methodologies
+- Agile, Scrum
+- TDD,BDD
+- Waterfall
 
-- Bulleted
-- List
+### Professional Employment Experience
 
-1. Numbered
-2. List
+QA Architect (PICQ project) - Innovecs  
+May 2019 - now
 
-**Bold** and _Italic_ and `Code` text
+PICQ is company's flagship cloud-based analytics and reporting healthcare product.
+- Java microservices
+- AWS infrastructure (EC2, EB, S3)
+- Introduce RSpec tests for main repo
+- Implement CI/CD (CircleCI, Docker, AWS services)       
+- Using page-object for automation UI tests
+- Test pyramid evangilist
+- Play role DevOps, Scrum Master, perform audit of test and delivery process
 
-[Link](url) and ![Image](src)
-```
+QMO Contributor - Softserve  
+April 2019 - July 2019
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Senior QA engineer (Security network project) - SoftServe  
+July 2017 - May 2019
 
-### Jekyll Themes
+QA engineer (License project) - Materialise  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vhorb/vhorb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Test engineer (Namos project) - Wincor-Nixdorf  
 
-### Support or Contact
+Network engineer, System configurator, Volunteer  
+2012-2014  
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+While studying play different roles and also as volunteer for different events. 
+Help people to understand OS system, configure systems and network for effective work.
+
+### Education
+
+Odessa National Academy of Telecommunications named after A.S.Popov:
+- Master Degree in Network Engineering (Information Networks faculty)
+- Master Degree in Economics (Economics and Management faculty)
+
+### Certifications
+
+ISTQB Foundation Level [2017]  
+![ISTQB Foundation Level](/assets/images/istqb_cert.jpg)
+
+Ruby Programming [2018]  
+![Ruby Programming](/assets/images/ruby_cert.pdf)
+
+AWS Technical Course [2019]  
+![AWS Cert](/assets/images/aws_cert_1.png)
+
+Internal Cisco security trainings (CCNA, White and Green security belts)
