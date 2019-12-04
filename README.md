@@ -26,33 +26,65 @@ Methodologies
 
 ### Professional Employment Experience
 
-QA Architect (PICQ project) - Innovecs  
-May 2019 - now
+*QA Architect (PICQ project) - Innovecs*  
+*May 2019 - now*
 
-PICQ is company's flagship cloud-based analytics and reporting healthcare product.
-- Java microservices
-- AWS infrastructure (EC2, EB, S3)
+PICQ is an application with cloud-based analytics and reporting healthcare product.
+- AWS infrastructure development and maintenance (EC2, EB, S3)
 - Introduce RSpec tests for main repo
 - Implement CI/CD (CircleCI, Docker, AWS services)       
 - Using page-object for automation UI tests
-- Test pyramid evangilist
 - Play role DevOps, Scrum Master, perform audit of test and delivery process
 
-QMO Contributor - Softserve  
-April 2019 - July 2019
+*QMO Contributor - Softserve*  
+*April 2019 - July 2019*
 
-Senior QA engineer (Security network project) - SoftServe  
-July 2017 - May 2019
+QMO is an internal office which collect all QA engineers around company  
+- Participate in development of Docker course
+- Participate in interviews for new QA
+- Participate in code review and audit of QA process in different projects
+- Play mentor role
 
-QA engineer (License project) - Materialise  
+*Senior QA engineer (Security network project) - SoftServe*  
+*July 2017 - May 2019*
 
-Test engineer (Namos project) - Wincor-Nixdorf  
+Management system, which collects and analyzes NetFlow, IPFIX, sFlow and other types of data to detect   
+problems which might impact a network's security or performance
+- Performing functional, integration, system testing of product
+- Create blackbox-tests with Cucumber+Ruby
+- Maintain docker images, which needed in testing
+- Participate in demo for customer
+- Play role QA Lead, QA mentor
+
+*QA engineer (License project) - Materialise* 
+*March 2016 - June 2017*
+
+Customer relationship management software package developed by Microsoft. The product focuses mainly on Sales, Marketing, and Service. Projects focused on customization and implemented it in Business flow.
+Build as server-client application, IIS-based web application which also supports extensive web services interfaces.
+ 
+- Performing functional, integration, system testing of product
+- Test documentation generation
+- Participate on iteration planning and responsible for testing estimates
+- Responsible for Demo performing
+- Creating complex SQL test script for integration check
+- Migration a big scope of data from various systems
+
+
+*Test engineer (Namos project) - Wincor-Nixdorf*  
+*December 2012 - February 2016*
+
+- Take a part in the international QA team in functional, integration testing of product
+- Successful implementation of automatization testing in existing product by HP tools 
+- Building and administrating of lab network for testing purpose (around 30 PC + VMWare vCenter + VirtualBox)
+- Was involved in the test team for testing of system migration from Windows XP to Windows 7
+- Participate in Test Plan preparation
+
 
 Network engineer, System configurator, Volunteer  
-2012-2014  
+2010-2012  
 
-While studying play different roles and also as volunteer for different events. 
-Help people to understand OS system, configure systems and network for effective work.
+_While studying play different roles and also as volunteer for different events.  
+Help people to understand OS system, configure systems and network for effective work._
 
 ### Education
 
@@ -63,10 +95,10 @@ Odessa National Academy of Telecommunications named after A.S.Popov:
 ### Certifications
 
 ISTQB Foundation Level [2017]  
-![ISTQB Foundation Level](/assets/images/istqb_cert.jpg)
+![ISTQB Foundation Level](./assets/images/istqb_cert.jpg =100x)
 
 Ruby Programming [2018]  
-![Ruby Programming](/assets/images/ruby_cert.pdf)
+![Ruby Programming](/assets/images/ruby_cert.png)
 
 AWS Technical Course [2019]  
 ![AWS Cert](/assets/images/aws_cert_1.png)
