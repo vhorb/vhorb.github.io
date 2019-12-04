@@ -26,8 +26,8 @@ Methodologies
 
 ### Professional Employment Experience
 
-*QA Architect (PICQ project) - Innovecs*  
-*May 2019 - now*
+**QA Architect (PICQ project) - Innovecs**  
+**May 2019 - now**
 
 PICQ is an application with cloud-based analytics and reporting healthcare product.
 - AWS infrastructure development and maintenance (EC2, EB, S3)
@@ -36,8 +36,8 @@ PICQ is an application with cloud-based analytics and reporting healthcare produ
 - Using page-object for automation UI tests
 - Play role DevOps, Scrum Master, perform audit of test and delivery process
 
-*QMO Contributor - Softserve*  
-*April 2019 - July 2019*
+**QMO Contributor - Softserve**  
+**April 2019 - July 2019**
 
 QMO is an internal office which collect all QA engineers around company  
 - Participate in development of Docker course
@@ -45,8 +45,8 @@ QMO is an internal office which collect all QA engineers around company
 - Participate in code review and audit of QA process in different projects
 - Play mentor role
 
-*Senior QA engineer (Security network project) - SoftServe*  
-*July 2017 - May 2019*
+**Senior QA engineer (Security network project) - SoftServe**  
+**July 2017 - May 2019**
 
 Management system, which collects and analyzes NetFlow, IPFIX, sFlow and other types of data to detect   
 problems which might impact a network's security or performance
@@ -56,8 +56,8 @@ problems which might impact a network's security or performance
 - Participate in demo for customer
 - Play role QA Lead, QA mentor
 
-*QA engineer (License project) - Materialise* 
-*March 2016 - June 2017*
+**QA engineer (License project) - Materialise**  
+**March 2016 - June 2017**
 
 Customer relationship management software package developed by Microsoft. The product focuses mainly on Sales, Marketing, and Service. Projects focused on customization and implemented it in Business flow.
 Build as server-client application, IIS-based web application which also supports extensive web services interfaces.
@@ -70,8 +70,8 @@ Build as server-client application, IIS-based web application which also support
 - Migration a big scope of data from various systems
 
 
-*Test engineer (Namos project) - Wincor-Nixdorf*  
-*December 2012 - February 2016*
+**Test engineer (Namos project) - Wincor-Nixdorf**  
+**December 2012 - February 2016**
 
 - Take a part in the international QA team in functional, integration testing of product
 - Successful implementation of automatization testing in existing product by HP tools 
@@ -95,7 +95,7 @@ Odessa National Academy of Telecommunications named after A.S.Popov:
 ### Certifications
 
 ISTQB Foundation Level [2017]  
-![ISTQB Foundation Level](./assets/images/istqb_cert.jpg =100x)
+![ISTQB Foundation Level](./assets/images/istqb_cert.jpg)
 
 Ruby Programming [2018]  
 ![Ruby Programming](/assets/images/ruby_cert.png)
