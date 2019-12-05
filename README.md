@@ -1,11 +1,11 @@
 ## Introduction
 
-This site has adaptive design and can be viewed as on Desktop and as Mobile screen.
-I aware about environment and if needed please get one-page PDF version. [GET PDF](./assets/pdf/CV_Horbovskykh.pdf)
+This site has an adaptive design and can be viewed on Desktop as well as a Mobile screen.
+I'm aware of the environment and if needed please get the one-page PDF version. [GET PDF](./assets/pdf/CV_Horbovskykh.pdf)
 
 ## Summary of Qualifications
-I am a 5+ years experienced Software Quality Engineer, including 3 years as Automation Test Engineer.
-Working on various projects and have experience in Desktop and Web Testing, Business oriented projects, working as team member and independent engineer. 
+I am 5+ years experienced Software Quality Engineer, including 3 years as an Automation Test Engineer.
+Working on various projects and have experience in Desktop and Web Testing, Business oriented projects, working as a team member and independent engineer. 
 
 Linkedin Account: [Viacheslav Horbovskykh](https://www.linkedin.com/in/viacheslav-horbovskykh-5961a162)
 
@@ -39,11 +39,11 @@ PICQ is an application with cloud-based analytics and reporting healthcare produ
 **QMO Contributor - Softserve**  
 **April 2019 - July 2019**
 
-QMO is an internal office which collect all QA engineers around company  
-- Participate in development of Docker course
+QMO is an internal office which joins all QA engineers around the company.  
+- Participate in the development of Docker course
 - Participate in interviews for new QA
-- Participate in code review and audit of QA process in different projects
-- Play mentor role
+- Participate in code review and an audit of QA process in different projects
+- Act as a mentor
 
 **Senior QA engineer (Security network project) - SoftServe**  
 **July 2017 - May 2019**
@@ -54,7 +54,7 @@ problems which might impact a network's security or performance
 - Create blackbox-tests with Cucumber+Ruby
 - Maintain docker images, which needed in testing
 - Participate in demo for customer
-- Play role QA Lead, QA mentor
+- Act as QA Lead and QA mentor
 
 **QA engineer (License project, CRM project) - Materialise**  
 **March 2016 - June 2017**
@@ -83,8 +83,7 @@ Back-Office solution for the Petroleum/Convenience business. Provides operators 
 **Network engineer, System configurator, Volunteer**  
 **2010-2012**  
 
-_While studying play different roles and also as volunteer for different events.  
-Help people to understand OS system, configure systems and network for effective work._
+_While studying volunteering in teaching newcomers to understand OS system, configure systems and network for effective work._
 
 ## Education
 
