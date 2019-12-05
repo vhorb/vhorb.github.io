@@ -1,13 +1,13 @@
 ## Introduction
 
 This site has adaptive design and can be viewed as on Desktop and as Mobile screen.
-I aware about environment and if needed please get one-page PDF version. [GET PDF](.)
+I aware about environment and if needed please get one-page PDF version. [GET PDF](./assets/pdf/CV_Horbovskykh.pdf)
 
 ## Summary of Qualifications
 I am a 5+ years experienced Software Quality Engineer, including 3 years as Automation Test Engineer.
 Working on various projects and have experience in Desktop and Web Testing, Business oriented projects, working as team member and independent engineer. 
 
-Linkedin Account: [Viacheslav Horbovskykh](www.linkedin.com/in/viacheslav-horbovskykh-5961a162)
+Linkedin Account: [Viacheslav Horbovskykh](https://www.linkedin.com/in/viacheslav-horbovskykh-5961a162)
 
 ## Skills
 Programming Languages/Technologies
